@@ -1,0 +1,10 @@
+<span class="font-bold cursor-pointer hover:underline">Virat Kohli</span>
+                    <div class="text-sm text-gray-200 ">@virat.kohli</div>
+                </div>
+                <div class="item p-2 px-3 hover:bg-[#2e3135] ">
+                    <span class="font-bold cursor-pointer hover:underline">Sadie Sink</span>
+                    <div class="text-sm text-gray-200 ">@sadiesink_</div>
+                </div>
+                <div class="item p-2 px-3 hover:bg-[#2e3135] ">
+                    <span class="font-bold cursor-pointer hover:underline">Christiano Ronaldo</span>
+                    <div class="text-sm text-gray-200 ">@christiano</div>
